@@ -1,0 +1,3 @@
+This is a project about my impatience. I love food bloggers for sharing their recipes, and sometimes, I am interested to read about their lives due to this affinity. Many times, however, I am in a hurry and trying to whip a meal together and nothing is more infuriating then trying to find the recipe advertised in the title of the post by scrolling through multiple pages of biographical nonsense. 
+
+So now I want to skip that. These scripts will take in a url for a food blog recipe and return only the ingredients required and the directions.
